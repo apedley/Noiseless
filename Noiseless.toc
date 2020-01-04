@@ -1,0 +1,8 @@
+## Interface: 80205
+## Title: Noiseless
+## Notes: Mutes annoying sounds
+## Author: Pingumania
+## Version: 1.0
+## SavedVariables: NoiselessDB
+
+init.xml

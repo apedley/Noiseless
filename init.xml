@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Include file="localization\load_locales.xml" />
+	<Script file="addon.lua"/>
+    <Script file="options.lua"/>
+</Ui>
