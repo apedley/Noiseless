@@ -3,9 +3,9 @@ local pairs = pairs
 local MuteSoundFile = MuteSoundFile
 
 noiseless.presets = {
-	["LFGPing"] = { -- LFG people requesting to join your group ping
-		1067667, -- ui_groupfinderreceiveapplication_01.ogg
-	},
+    ["LFGPing"] = { -- LFG people requesting to join your group ping
+        1067667, -- ui_groupfinderreceiveapplication_01.ogg
+    },
     ["BFABodyguards"] = { -- Mutes all voice lines by the new BFA Nazjatar followers
         -- Inowari
         2965602, 2965603, 2965604, 2965605, 2965606, 2965607, 2965608, 2965609, 2965610, 2965611, 2965612, 2965613, 2965614, 2965615, 2965616, 2965617, 2965618, 2965619, 2965620, 2965621, 2965622, 2965623,
