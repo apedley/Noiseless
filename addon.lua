@@ -102,6 +102,7 @@ noiseless.panel:SetScript("OnEvent", function(f, event, addon)
             NoiselessDB = {}
         end
         noiseless.db = NoiselessDB
+        if not noiseless.db.mutedPresets then noiseless.db.mutedPresets = {} end
     elseif event == "PLAYER_ENTERING_WORLD" then
         noiseless:UpdateFiles()
     end
