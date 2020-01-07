@@ -2,7 +2,7 @@
 ## Title: Noiseless
 ## Notes: Mutes annoying sounds
 ## Author: Pingumania
-## Version: 1.0
+## Version: 1.1
 ## SavedVariables: NoiselessDB
 
 init.xml
